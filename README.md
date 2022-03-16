@@ -1,5 +1,5 @@
-## 👋 Hi, I’m @GGavrilos
-# 👀 I’m interested in Statistics.
+# 👋 Hi, I’m George.
+## 👀 I’m interested in Statistics.
 - 🌱 I’m currently learning Github.
 - 💞️ I’m looking to collaborate on Data Analysis.
 - 📫 How to reach me : email
